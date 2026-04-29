@@ -1,0 +1,3 @@
+[submodule "matrix_module"]
+	path = matrix_module
+	url = https://github.com/mDAVIDm2/lr2_variant14_matrix_module.git
